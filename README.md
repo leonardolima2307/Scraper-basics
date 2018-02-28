@@ -3,5 +3,3 @@ This is a quick demo of how can you get data from similarweb, using scraper inst
 
 
 You will need to install selenium and download ChromeDriver from https://sites.google.com/a/chromium.org/chromedriver/downloads
-
-
